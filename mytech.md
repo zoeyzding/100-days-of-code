@@ -4,9 +4,13 @@
 
 - React
 - JavaScript
+- Three.js
+- mini-program
+- vue(little)
+- Webpack
+- NodeJS
 
 ## Project ideas
 
-- Ravenous project
-- Build a React App for custom playlists
-- JavaScript Project: Wanderlust
+- codecademy projects
+- freecodecamp projects and certificate
